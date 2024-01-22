@@ -2,6 +2,4 @@
 
 Hello, world!
 
-Proud generalist! I'm a game programmer, writer, and 3D artist. I'm also an art school dropout, having studied game design before attending UIS for a BS majoring in computer science and minoring in mathematical sciences.
-Lowest GPA at Tolarian Community College. I'm becoming working-proficient in Korean, and learning Japanese for fun (looking forward to Shashingo!). I was a features writer at Make Use Of, Hardcore Droid, and Game Rant; writing technical guides, game reviews, and stories about tech and games.
-Currently, I'm a 3D artist for Spellcast Studios' Ardenfall.
+I'm a programmer, writer, and 3D artist. Studied game design at FSU before attending UIS for a BS in computer and mathematical sciences. Ex-Features Writer at Make Use Of, Hardcore Droid, and Game Rant; writing technical guides, game reviews, and stories about tech and games. 3D artist for Spellcast Studios' Ardenfall.
