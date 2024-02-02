@@ -10,4 +10,4 @@ I'm a programmer, writer, and 3D artist. Studied game design at FSU before atten
 
 Currently cooking something up in **Unreal Engine**...
 
-![orc-meat-render](https://github.com/Nico-Posateri/nico-posateri/assets/141705409/9c1c08e1-e513-4dc0-a949-792bde08e7c2)
+![orc-meat-render](https://github.com/Nico-Posateri/nico-posateri/assets/141705409/d4fcfaf5-c172-4797-9b45-5432471174aa)
