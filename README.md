@@ -2,7 +2,7 @@
 
 **Hello, world!**
 
-I'm a programmer, writer, and 3D artist. Studied game design at FSU before attending UIS for a BS in computer and mathematical sciences. Ex-Features Writer at Make Use Of, Hardcore Droid, and Game Rant; writing technical guides, game reviews, and stories about tech and games. 3D artist for Spellcast Studios' Ardenfall, pmrd's Incoherence.
+I'm a programmer, writer, and 3D artist. Studied game design at FSU before attending UIS for a BS in computer and mathematical sciences. Ex-Features Writer at Make Use Of, Hardcore Droid, and Game Rant; writing technical guides, game reviews, and stories about tech and games. 3D artist for **Spellcast Studios**' *Ardenfall*, **pmrd**'s *Incoherence*.
 
 **The following projects were made with:**
 
