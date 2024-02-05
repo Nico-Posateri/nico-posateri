@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://github.com/Nico-Posateri/nico-posateri/assets/141705409/998e25d5-8ff9-4dc8-85bd-807237237468)
+![posateri-nico-banner](https://github.com/Nico-Posateri/nico-posateri/assets/141705409/5db6d131-bf23-4116-bb26-98a7939326b2)
 
 **Hello, world!**
 
