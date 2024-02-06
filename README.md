@@ -2,7 +2,7 @@
 
 **Hello, world!**
 
-I'm a programmer, writer, and 3D artist. Studied game design at FSU before attending UIS for a BS in computer and mathematical sciences. Ex-Features Writer at Make Use Of, Hardcore Droid, and Game Rant; writing technical guides, game reviews, and stories about tech and games. 3D artist for **Spellcast Studios**' *Ardenfall*, **pmrd**'s *Incoherence*.
+Programmer, writer, and 3D artist. Studied game design at FSU before attending UIS for a BS in computer and mathematical sciences. 3D Artist on **Spellcast Studios'** *Ardenfall*, an open-ended fantasy RPG. Currently a game designer on **pmrd**'s *Incoherence*, an atmospheric immersive sim built on the QUARTZ Engine, a modified version of the open-source Q2RTX Engine.
 
 **The following projects were made with:**
 
