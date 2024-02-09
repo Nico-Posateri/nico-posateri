@@ -1,4 +1,4 @@
-![posateri-nico-banner](https://github.com/Nico-Posateri/nico-posateri/assets/141705409/8b584048-3507-40d3-9f93-6e59fbd0bfe2)
+![pmrd-banner](https://github.com/Nico-Posateri/nico-posateri/assets/141705409/bd787337-45c0-4030-9b6d-6101e31451c5)
 
 **Hello, world!**
 
@@ -7,7 +7,3 @@ Programmer, writer, and 3D artist. Studied game design at FSU before attending U
 **The following projects were made with:**
 
 ![dev-tools](https://github.com/Nico-Posateri/nico-posateri/assets/141705409/be15a6bc-0b68-40ea-8e13-4ea10129bc1b)
-
-Currently cooking something up in **Unreal Engine**...
-
-![orc-meat-render](https://github.com/Nico-Posateri/nico-posateri/assets/141705409/d4fcfaf5-c172-4797-9b45-5432471174aa)
